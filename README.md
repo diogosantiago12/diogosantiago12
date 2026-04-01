@@ -31,4 +31,4 @@ My background is a mix of industrial data science (Lambda3/TIVIT) and academic r
 
 ---
 *“Moving AI from a research experiment to a functional enterprise asset.”*
-*This is my second account because my first account [dsantiago](https://github.com/dsantiago) has lost its email.*
+*"This is my second account because my first account [dsantiago](https://github.com/dsantiago) has lost its email."*
